@@ -1,7 +1,7 @@
 {
   "Name": "azure-mgmt-communication",
-  "Version": "2.0.0a20230315001",
-  "DevVersion": "2.0.0a20230315001",
+  "Version": "2.0.0a20230315003",
+  "DevVersion": "2.0.0a20230315003",
   "DirectoryPath": "sdk/communication/azure-mgmt-communication",
   "ServiceDirectory": "communication",
   "ReadMePath": "sdk/communication/azure-mgmt-communication/README.md",
